@@ -6,12 +6,13 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | Indonesian News Dataset |
+| Sumber | https://huggingface.co/datasets/iqballx/indonesian_news_datasets |
+| Lisensi/ketentuan pakai | Apache-2.0 / Open Data |
+| Ukuran | 737.9 MB (32.735 baris, 11 kolom) |
+| Periode data | 2023 |
+| Unit analisis | Artikel berita Indonesia (judul, isi, tanggal, embedding, ringkasan) |
+| File & Checksum | `data.csv` (SHA-256: `cdde95f6de7c2f6a2af5d52df532f934f5ddb7381a59b3d1f99e7a475deadcbb`) |
 
 ## Tempat Mencari Dataset
 
